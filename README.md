@@ -1,0 +1,2 @@
+# ego
+Effective Go
